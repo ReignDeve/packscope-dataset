@@ -15,10 +15,10 @@ The dataset was created for a university course on research data management. It 
 | Number of classes | 9 |
 | Metadata | `metadata.csv` (UTF-8, comma-separated, one row per image, 15 fields) |
 | Language of product names | Mostly German (as printed on the package) |
-| Capture device | iPhone 15 Pro |
-| Capture period | October 2026 – [end date] |
-| Collection location | Supermarkets in [City], Germany |
-| Authors | [Author 1], [Author 2] |
+| Capture device | iPhone 15 Pro & iPhone 14 Plus |
+| Capture period | October 2026 – November 2026 |
+| Collection location | Supermarkets in Nuremberg, Germany |
+| Authors | Marius Bungert, Hamza Jalil Mirza |
 | License | CC BY 4.0 (see [`LICENSE`](LICENSE)) |
 | Version | 1.0 |
 | DOI | [10.5281/zenodo.XXXXXXX] |
@@ -187,8 +187,7 @@ Main weaknesses: no standard vocabulary/ontology (e.g. GS1 product categories), 
 
 ## Changelog
 
-- **1.0** (2026-[MM-DD]): First public release.
+- **1.0** (2026-11-04): First public release.
 
 ## Contact
-
-[Author 1] — [e-mail]
+Marius Bungert — mariusbungert@gmx.de
