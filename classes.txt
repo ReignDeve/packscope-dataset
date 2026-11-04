@@ -1,0 +1,6 @@
+can
+bag
+box
+jar
+carton
+bottle

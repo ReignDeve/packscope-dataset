@@ -1,0 +1,11 @@
+path: .
+train: images
+val: images
+
+names:
+  0: can
+  1: bag
+  2: box
+  3: jar
+  4: carton
+  5: bottle
