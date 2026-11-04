@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "PackScope: Supermarket Packaging Dataset"
+version: "1.0"
+license: CC-BY-4.0
+repository-code: "https://github.com/ReignDeve/FanDat"
+abstract: >-
+  PackScope is a small, student-created image dataset of 33 photographs of
+  supermarket product packaging taken in German supermarkets. Each image shows
+  one main package, annotated with a bounding box in YOLO format and one of
+  nine packaging-type classes (can, bag, box, jar, carton, bottle, tub, tube,
+  wrapper), and is described by 16 structured metadata fields (product, brand,
+  category, material, quantity, photographer, annotator, capture details).
+  It was created for a university course on research data management.
+keywords:
+  - dataset
+  - object detection
+  - bounding box
+  - YOLO
+  - packaging
+  - supermarket
+  - FAIR
+authors:
+  # Names taken from metadata.csv (photographer/annotator).
+  - given-names: "Hamza Jalil"   # TODO: check split of given/family name
+    family-names: "Mirza"
+  - given-names: "Marius"
+    family-names: "Bungert"
+date-released: "2026-MM-DD"   # TODO: release date (YYYY-MM-DD)
+doi: "10.5281/zenodo.XXXXXXX"   # TODO: Zenodo DOI

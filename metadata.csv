@@ -1,34 +1,34 @@
-﻿image_id,brand,product_name,product_category,material,net_quantity
-IMG_0001.jpg,Erasco,Hühner Nudel-Topf,canned soup,tin can,
-IMG_0002.jpg,Kania,Chili con Carne,canned soup / ready meal,tin can,
-IMG_0003.jpg,Maggi,Ravioli in Tomatensauce mit Fleischhaltiger Füllung,canned pasta / ready meal,tin can,
-IMG_0004.jpg,Kania,Ravioli in Tomatensauce,canned pasta / ready meal,tin can,
-IMG_0005.jpg,Combino,Fusilli 100% Hartweizengrieß,dried pasta,plastic bag,
-IMG_0006.jpg,Combino,Maccaroni 100% Hartweizengrieß,dried pasta,plastic bag,500 g
-IMG_0007.jpg,Combino,Bio Bioland Dinkel Penne,dried pasta,plastic bag,500 g
-IMG_0008.jpg,Barilla,Classic Fusilli N° 98,dried pasta,cardboard box,
-IMG_0009.jpg,Milbona,Skyr Nach Isländischer Art Natur Fettarm,dairy product / skyr,plastic tub / cup,500 g
-IMG_0010.jpg,Weihenstephan,Skyr Nach Isländischer Art,dairy product / skyr,plastic tub / cup,
-IMG_0011.jpg,Milbona,High Protein Grießpudding Zimt,dairy product / pudding,plastic tub / cup,500 g
-IMG_0012.jpg,Milbona,Deutsche Marken-Butter,butter,paper wrapper,250 g
-IMG_0013.jpg,Kerrygold,Extra Aus Original Irischer Butter & Rapsöl Ungesalzen,spread / butter blend,plastic tub,
-IMG_0014.jpg,Milbona,Original Irische Butter,butter,paper wrapper,250 g
-IMG_0015.jpg,Milbona,Sødergården Gekühlt Streichzart Gesalzen,spread / butter blend,plastic tub,250 g
-IMG_0016.jpg,Freshona,Kichererbsen,canned legumes / chickpeas,tin can,
-IMG_0017.jpg,Freshona,Kidney Bohnen,canned legumes / kidney beans,tin can,
-IMG_0018.jpg,Freshona,Delikatess Rotkohl,canned / jarred red cabbage,glass jar,650 g
-IMG_0019.jpg,Baresa,Grüne Oliven ohne Stein,olives,glass jar,
-IMG_0020.jpg,Baresa,Geschwärzte Oliven Hojiblanca ohne Stein,olives,glass jar,
-IMG_0021.jpg,Freshona,Sonnenmais natursüß,canned corn / vegetables,tin can,
-IMG_0022.jpeg,MAX,Premium Pistazien geröstet & gesalzen,nuts / pistachios,tin can,
-IMG_0023.jpeg,funny-frisch,Chipsfrisch ungarisch,potato chips / snack,plastic bag,
-IMG_0024.jpg,Pringles,Hot! Scary Cheese & Chilli Flavour,crisps / snack,cardboard / composite can,
-IMG_0025.jpg,REWE Bio,Mehl Weizen Type 1050,flour / wheat flour,paper bag,1000 g
-IMG_0026.jpeg,Thomy,Delikatess Mayonnaise mit Freilandeiern,mayonnaise,glass jar,
-IMG_0027.jpg,Heinz,Mayo Das Original,mayonnaise,plastic squeeze bottle,
-IMG_0028.jpg,Thomy,Delikatess Mayonnaise mit Freilandeiern,mayonnaise,plastic tube,
-IMG_0029.jpeg,Evermann,Black Forest Whisky German Double Distilled Blended Whisky,whisky / alcoholic beverage,glass bottle,
-IMG_0030.jpeg,Weihenstephan,"Haltbare Milch 3,5% Fett",milk / dairy,carton,
-IMG_0031.jpeg,REWE Bio,Aprikose Konfitüre Extra,jam / spread,glass jar,
-IMG_0032.jpeg,BiFi,Tasty Bites Chicken Italian Parmesan & Thyme,snack / meat snack,plastic pouch,
-IMG_0033.jpeg,ja!,Hauchzartes Putenbrustfilet,sliced poultry / cold cuts,plastic packaging,200 g
+image_id,brand,product_name,product_category,product_subcategory,material,packaging_type,net_quantity,photographer,annotator,capture_date,capture_setting,device,width,height,notes
+IMG_0001.jpg,Erasco,Hühner Nudel-Topf,preserved food,soup,metal,can,400 g,Hamza Jalil Mirza,"Hamza Jalil Mirza, Marius Bungert",2026-10-30,on_shelf,iPhone 15 Pro,3024,4032,
+IMG_0002.jpg,Kania,Chili con Carne,preserved food,ready meal,metal,can,100 g,Hamza Jalil Mirza,"Hamza Jalil Mirza, Marius Bungert",2026-10-30,handheld,iPhone 15 Pro,3024,4032,
+IMG_0003.jpg,Maggi,Ravioli in Tomatensauce mit fleischhaltiger Füllung,preserved food,ready meal,metal,can,800 g,Hamza Jalil Mirza,"Hamza Jalil Mirza, Marius Bungert",2026-10-30,handheld,iPhone 15 Pro,3024,4032,
+IMG_0004.jpg,Kania,Ravioli in Tomatensauce,preserved food,ready meal,metal,can,800 g,Hamza Jalil Mirza,"Hamza Jalil Mirza, Marius Bungert",2026-10-30,handheld,iPhone 15 Pro,3024,4032,
+IMG_0005.jpg,Combino,Fusilli 100% Hartweizengrieß,dry goods,pasta,plastic,bag,500 g,Hamza Jalil Mirza,"Hamza Jalil Mirza, Marius Bungert",2026-10-30,handheld,iPhone 15 Pro,4032,3024,Second package partially visible; only the main package is annotated
+IMG_0006.jpg,Combino,Maccaroni 100% Hartweizengrieß,dry goods,pasta,plastic,bag,500 g,Hamza Jalil Mirza,"Hamza Jalil Mirza, Marius Bungert",2026-10-30,handheld,iPhone 15 Pro,3024,4032,
+IMG_0007.jpg,Combino,Bio Bioland Dinkel Penne,dry goods,pasta,plastic,bag,500 g,Hamza Jalil Mirza,"Hamza Jalil Mirza, Marius Bungert",2026-10-30,handheld,iPhone 15 Pro,3024,4032,
+IMG_0008.jpg,Barilla,Fusilli N° 98,dry goods,pasta,cardboard,box,500 g,Hamza Jalil Mirza,"Hamza Jalil Mirza, Marius Bungert",2026-10-30,on_shelf,iPhone 15 Pro,3024,4032,Package partly cut off at image border
+IMG_0009.jpg,Milbona,Skyr nach isländischer Art Natur fettarm,dairy,skyr,plastic,tub,500 g,Hamza Jalil Mirza,"Hamza Jalil Mirza, Marius Bungert",2026-10-30,handheld,iPhone 15 Pro,3024,4032,
+IMG_0010.jpg,Weihenstephan,Skyr nach isländischer Art,dairy,skyr,plastic,tub,450 g,Hamza Jalil Mirza,"Hamza Jalil Mirza, Marius Bungert",2026-10-30,handheld,iPhone 15 Pro,3024,4032,
+IMG_0011.jpg,Milbona,High Protein Grießpudding Zimt,dairy,pudding,plastic,tub,500 g,Hamza Jalil Mirza,"Hamza Jalil Mirza, Marius Bungert",2026-10-30,handheld,iPhone 15 Pro,3024,4032,
+IMG_0012.jpg,Milbona,Deutsche Markenbutter,dairy,butter,paper,wrapper,250 g,Hamza Jalil Mirza,"Hamza Jalil Mirza, Marius Bungert",2026-10-30,handheld,iPhone 15 Pro,3024,4032,
+IMG_0013.jpg,Kerrygold,"extra aus original irischer Butter & Rapsöl, ungesalzen",spread,butter blend,plastic,tub,250 g,Hamza Jalil Mirza,"Hamza Jalil Mirza, Marius Bungert",2026-10-30,handheld,iPhone 15 Pro,3024,4032,
+IMG_0014.jpg,Milbona,Original Irische Butter,dairy,butter,paper,wrapper,250 g,Hamza Jalil Mirza,"Hamza Jalil Mirza, Marius Bungert",2026-10-30,handheld,iPhone 15 Pro,3024,4032,
+IMG_0015.jpg,Milbona,"Sødergården streichzart, gesalzen",spread,butter blend,plastic,tub,250 g,Hamza Jalil Mirza,"Hamza Jalil Mirza, Marius Bungert",2026-10-30,handheld,iPhone 15 Pro,3024,4032,
+IMG_0016.jpg,Freshona,Kichererbsen,preserved food,legumes,metal,can,240 g,Hamza Jalil Mirza,"Hamza Jalil Mirza, Marius Bungert",2026-10-30,handheld,iPhone 15 Pro,3024,4032,
+IMG_0017.jpg,Freshona,Kidney Bohnen,preserved food,legumes,metal,can,255 g,Hamza Jalil Mirza,"Hamza Jalil Mirza, Marius Bungert",2026-10-30,handheld,iPhone 15 Pro,3024,4032,
+IMG_0018.jpg,Freshona,Delikatess Rotkohl,preserved food,vegetables,glass,jar,650 g,Hamza Jalil Mirza,"Hamza Jalil Mirza, Marius Bungert",2026-10-30,handheld,iPhone 15 Pro,3024,4032,
+IMG_0019.jpg,Baresa,Grüne Oliven ohne Stein,preserved food,olives,glass,jar,340 g,Hamza Jalil Mirza,"Hamza Jalil Mirza, Marius Bungert",2026-10-30,handheld,iPhone 15 Pro,3024,4032,
+IMG_0020.jpg,Baresa,Geschwärzte Oliven Hojiblanca ohne Stein,preserved food,olives,glass,jar,340 g,Hamza Jalil Mirza,"Hamza Jalil Mirza, Marius Bungert",2026-10-30,handheld,iPhone 15 Pro,3024,4032,
+IMG_0021.jpg,Freshona,Sonnenmais natursüß,preserved food,vegetables,metal,can,425 ml,Hamza Jalil Mirza,"Hamza Jalil Mirza, Marius Bungert",2026-10-30,handheld,iPhone 15 Pro,3024,4032,
+IMG_0022.jpg,MAX,Premium Pistazien geröstet & gesalzen,snack,nuts,metal,can,225 g,Marius Bungert,"Hamza Jalil Mirza, Marius Bungert",2026-11-02,on_surface,iPhone 14 Plus,1200,1600,
+IMG_0023.jpg,funny-frisch,Chipsfrisch ungarisch,snack,potato chips,plastic,bag,150 g,Marius Bungert,"Hamza Jalil Mirza, Marius Bungert",2026-11-02,on_surface,iPhone 14 Plus,1200,1600,
+IMG_0024.jpg,Pringles,Hot! Scary Cheese & Chilli Flavour,snack,potato chips,composite,can,185 g,Marius Bungert,"Hamza Jalil Mirza, Marius Bungert",2026-11-02,on_surface,iPhone 14 Plus,1200,1600,Composite (cardboard) can classified as can
+IMG_0025.jpg,REWE Bio,Mehl Weizen Type 1050,dry goods,flour,paper,bag,1000 g,Marius Bungert,"Hamza Jalil Mirza, Marius Bungert",2026-11-02,on_surface,iPhone 14 Plus,1200,1600,
+IMG_0026.jpg,Thomy,Delikatess Mayonnaise mit Freilandeiern,condiment,mayonnaise,glass,jar,500 ml,Marius Bungert,"Hamza Jalil Mirza, Marius Bungert",2026-11-02,on_surface,iPhone 14 Plus,1200,1600,Same product as IMG_0028 in different packaging
+IMG_0027.jpg,Heinz,Mayo Das Original,condiment,mayonnaise,plastic,bottle,215 g,Marius Bungert,"Hamza Jalil Mirza, Marius Bungert",2026-11-02,on_surface,iPhone 14 Plus,1200,1600,Squeeze bottle; photographed upside down
+IMG_0028.jpg,Thomy,Delikatess Mayonnaise mit Freilandeiern,condiment,mayonnaise,plastic,tube,200 ml,Marius Bungert,"Hamza Jalil Mirza, Marius Bungert",2026-11-02,on_surface,iPhone 14 Plus,1200,1600,Same product as IMG_0026 in different packaging
+IMG_0029.jpg,Evermann,Black Forest Whisky German Double Distilled Blended Whisky,beverage,whisky,glass,bottle,0.7 l,Marius Bungert,"Hamza Jalil Mirza, Marius Bungert",2026-11-02,on_surface,iPhone 14 Plus,1200,1600,
+IMG_0030.jpg,Weihenstephan,"Haltbare Milch 3,5% Fett",dairy,milk,composite,carton,1 l,Marius Bungert,"Hamza Jalil Mirza, Marius Bungert",2026-11-02,on_surface,iPhone 14 Plus,1200,1600,
+IMG_0031.jpg,REWE Bio,Aprikose Konfitüre Extra,spread,jam,glass,jar,330 g,Marius Bungert,"Hamza Jalil Mirza, Marius Bungert",2026-11-02,on_surface,iPhone 14 Plus,1200,1600,
+IMG_0032.jpg,BiFi,Tasty Bites Chicken Italian Parmesan & Thyme,meat product,meat snack,plastic,bag,50 g,Marius Bungert,"Hamza Jalil Mirza, Marius Bungert",2026-11-02,handheld,iPhone 14 Plus,1200,1600,Flexible pouch classified as bag
+IMG_0033.jpg,ja!,Hauchzartes Putenbrustfilet,meat product,cold cuts,plastic,wrapper,200 g,Marius Bungert,"Hamza Jalil Mirza, Marius Bungert",2026-11-02,handheld,iPhone 14 Plus,1200,1600,Sealed flat tray pack classified as wrapper

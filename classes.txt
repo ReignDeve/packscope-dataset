@@ -4,3 +4,6 @@ box
 jar
 carton
 bottle
+tub
+tube
+wrapper

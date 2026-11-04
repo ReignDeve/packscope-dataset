@@ -1,3 +1,6 @@
+# PackScope — YOLO dataset config
+# NOTE: train and val point to the SAME images (no official split).
+# This is only intended for pipeline tests, not for real evaluation.
 path: .
 train: images
 val: images
@@ -9,3 +12,6 @@ names:
   3: jar
   4: carton
   5: bottle
+  6: tub
+  7: tube
+  8: wrapper
