@@ -4,7 +4,7 @@ type: dataset
 title: "PackScope: Supermarket Packaging Dataset"
 version: "1.0"
 license: CC-BY-4.0
-repository-code: "https://github.com/ReignDeve/FanDat"
+repository-code: "https://github.com/ReignDeve/packscope-dataset"
 abstract: >-
   PackScope is a small, student-created image dataset of 33 photographs of
   supermarket product packaging taken in German supermarkets. Each image shows
