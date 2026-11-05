@@ -198,7 +198,7 @@ Product names, brands, logos and package designs shown in the images are tradema
 
 ## Citation
 
-> Hamza Jalil Mirza, Marius Bungert (2026). _PackScope: Supermarket Packaging Dataset_ (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Hamza Jalil Mirza, Marius Bungert (2026). _PackScope: Supermarket Packaging Dataset_ (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23965039
 
 See also [`CITATION.cff`](CITATION.cff).
 
